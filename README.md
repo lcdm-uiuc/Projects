@@ -2,12 +2,16 @@
 This is a collection list of the group current projects with links
 
 
+## Algorithms
+
 ## Astronomy
-
-## Text Analytics
-
-## Data Science
 
 ## Computer Science
 
-## Algorithms
+## Data Science
+
+## Finance
+
+## Text Analytics
+
+## General
